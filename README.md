@@ -8,7 +8,9 @@ The code in the `notebooks` folder performs the following functions:
 
 `divide_by_effect` - *Derives separate .csv files for each relic separated by their corresponding effect. For instance, the .csv file named `relics_with_randomness` will contain all the relics that have the value `True` when the value of the column `Randomness` is checked.*
 
-In addition, this repository contains the results of each step:
+
+
+**In addition, this repository contains the results of each step:**
 
 `webpages-pickled` - *Contains the pickled webpages as stored in `pirates-outlaws-bot`.*
 
