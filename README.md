@@ -11,5 +11,7 @@ The code in the `notebooks` folder performs the following functions:
 In addition, this repository contains the results of each step:
 
 `webpages-pickled` - *Contains the pickled webpages as stored in `pirates-outlaws-bot`.*
+
 `relics-by-map` - *Contains the .csv files of relics sorted by their maps as stored in `pirates-outlaws-bot`, as well as the merged list of relics, `all_relics.csv` that is derived from `all_relics_csv_create`*
+
 `relics-by-effect` - *Contains the .csv files of relics sorted by their effect as stored in `divide-by-effect`*
