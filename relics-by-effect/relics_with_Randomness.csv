@@ -1,0 +1,14 @@
+Name,Effect,Map
+Candle,remove 2 random curses from your deck when you get this relic.,piratesbay
+Hammer,upgrade 2 random attack cards when you get this relic.,piratesbay
+ToolBook,upgrade 2 random skill cards when you get this relic.,piratesbay
+Axe,"whenever you draw a extra card, deal 2 damage to a random enemy.",piratesbay
+Tooth,"at the start of battle, applies mark x1 to a random enemy. ",skullsisland
+Drift Bottle,add a random attack card to your hand whenever a card is removed in battle. ,soulsrift
+Magnifying Glass,"whenever you use a melee card, ammo cost of a random ranged card in your hand becomes 0 this turn. ",soulsrift
+White Shell ,price of a random card becomes 0 in the market. ,lostislands
+Sun Stone,"at start of battle, stun a random enemy.",northernlands
+Wood Carving,"when you get this relic, upgrade 4 random cards. cannot be removed.",northernlands
+Sushi,"whenever you heal, deal 2 damage to a random enemy.",easternseas
+Knuckleduster,add a random melee card to your hand at start of battle.,packages
+Match,"at the start of each your turn, if there is more than 1 enemy, apply 1 blind to a random enemy.",packages

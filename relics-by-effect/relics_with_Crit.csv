@@ -1,0 +1,13 @@
+Name,Effect,Map
+Eye Mask,the first melee card of each battle deals a critical hit.,piratesbay
+Rose,heal 3 when you deal a critical hit.,piratesbay
+Knife,reload 1 whenever a melee attack deals a critical hit.,piratesbay
+Telescope,draw 1 card whenever a ranged attack deals a critical hit.,piratesbay
+Lucky Charm ,gain 10 armor whenever you take a critical hit. ,lostislands
+Torch ,critical hits deal 250% damage instead of 200%. ,lostislands
+Spiked Club ,critical hits cause stun. can only affect each enemy 1 time per battle. ,lostislands
+Ice Sculpture,the first attack of each turn is always a critical hit. -1 attack damage.,northernlands
+Deer Antler,"whenever you take a critical hit, apply 6 injury on the attacker.",northernlands
+Helmet,melee critical hits have 25% lifesteal.,northernlands
+Thorn Potion,attack cards deal critical hits to enemies with at least 10 injury.,packages
+Honey Ale,"if you are drunk, reload 1 when you deal a critical hit.",packages

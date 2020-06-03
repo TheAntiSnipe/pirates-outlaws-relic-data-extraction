@@ -1,0 +1,16 @@
+Name,Effect
+Lantern Fish,"+3 ranged damage, but ranged attacks have a 20% chance to miss. "
+Tentacle,"at end of your turn, heal 1 for each curse in your hand. "
+Treasure Map,"during your turn, if you have no cards in hand, draw a card. only triggers once per turn. "
+Shovel,"at the end of your turn, if you have no ammo, reload 1. "
+Brush,gain immunity x3 at start of battle. 
+Corpse Flower,+2 to all armor gain effects.\ndisables all healing effects in battle. 
+Quill-pen,"if an attack would kill you while your hp is greater than 1, revive and heal 1. "
+Bandolier,"whenever a ranged card crits, restore all ammo that the card used. "
+Necklace,heal 2 whenever a card is removed in battle. 
+Drift Bottle,add a random attack card to your hand whenever a card is removed in battle. 
+Magnifying Glass,"whenever you use a melee card, ammo cost of a random ranged card in your hand becomes 0 this turn. "
+Arm Guard,"at the beginning of your turn, lose all armor and deal damage equal to armor lost this way to all enemies. "
+Knot,add 1 endure to your hand at start of battle. 
+Starfish,"after your attack, if the target still has armor, apply injury x2 to it. "
+Standby Compass,restore ap to max when received. 

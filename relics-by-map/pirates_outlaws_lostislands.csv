@@ -1,0 +1,16 @@
+Name,Effect
+Lucky Charm ,gain 10 armor whenever you take a critical hit. 
+Crab Shell ,gain 3 armor whenever an enemy gains armor. 
+Ribbon ,killing blows have 25% lifesteal. 
+Refined Ammo ,"at max ammo, heal 2 for each extra ammo reloaded. remaining: 50 hp"
+Torch ,critical hits deal 250% damage instead of 200%. 
+Mystery Brew ,"at the end of your turn, remove 1 weakened, blind, fragile, mark and injury. "
+Wooden Pauldron ,"whenever you gain weakened, blind, fragile, mark or injury, gain 5 armor. "
+Butterfly ,"if an enemy's attack misses, deals 6 damage to them. "
+Great Fang ,"whenever an enemy gains rage, gain 1 rage. "
+Great Scale ,"whenever you gain weakened, apply 2 weakened on all enemies. "
+Diamond ,"whenever you lose hp, if you have less than 50% hp, apply 1 blind on all enemies. can only trigger once per battle. "
+Coral ,"whenever you are attacked, applies 1 injury on the attacker. "
+Fossil ,"when you have no ammo, reload to max. can only trigger once per battle. "
+Spiked Club ,critical hits cause stun. can only affect each enemy 1 time per battle. 
+White Shell ,price of a random card becomes 0 in the market. 

@@ -1,0 +1,23 @@
+Name,Effect,Map
+Lucky Clover,"when hp reaches 0 in battle, revive and heal 50% of hp. take effect only 1 time for each game.",piratesbay
+Cheese,+10 healing at tavern.,piratesbay
+Apple,heal 3 at the start of each battle.,piratesbay
+Hourglass,gain 2 armor when you heal.,piratesbay
+Rose,heal 3 when you deal a critical hit.,piratesbay
+Crystal,"at end of battle, heal 6 if your hp is below 50%.",piratesbay
+Mushroom,heal 1 whenever you use an attack card and lose 1 hp whenever you use a skill card. ,skullsisland
+Tentacle,"at end of your turn, heal 1 for each curse in your hand. ",soulsrift
+Corpse Flower,+2 to all armor gain effects.\ndisables all healing effects in battle. ,soulsrift
+Quill-pen,"if an attack would kill you while your hp is greater than 1, revive and heal 1. ",soulsrift
+Necklace,heal 2 whenever a card is removed in battle. ,soulsrift
+Ribbon ,killing blows have 25% lifesteal. ,lostislands
+Refined Ammo ,"at max ammo, heal 2 for each extra ammo reloaded. remaining: 50 hp",lostislands
+Deep Cup,"whenever you gain drunk, heal 3.",northernlands
+Wooden Spoon,"at the end of your turn, heal 2 for each enemy with injury.",northernlands
+Helmet,melee critical hits have 25% lifesteal.,northernlands
+Clam,heal 2 whenever you lose all armor.,easternseas
+Prayer Beads,"at the start of battle, if your hp is below 50%, heal to max. take effect for only 1 time in a game.",easternseas
+Sushi,"whenever you heal, deal 2 damage to a random enemy.",easternseas
+Cooked Meat,heal 1 for each ammo spent when you use a ranged card.,packages
+Beer Mug,"at end of turn, heal 3 if you are drunk.",packages
+Healing Scroll,heal 5 at start of battle.,heroes

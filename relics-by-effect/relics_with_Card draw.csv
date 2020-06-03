@@ -1,0 +1,12 @@
+Name,Effect,Map
+Ammo Heap,adds 1 extra supplies to draw pile at start of battle.,piratesbay
+Hook,draw a card whenever an enemy is killed.,piratesbay
+Telescope,draw 1 card whenever a ranged attack deals a critical hit.,piratesbay
+Pepper,draw a card whenever you lose hp on your turn.,piratesbay
+Dice,"at the start of your turn, discard a card from your hand, then draw a card.",piratesbay
+Axe,"whenever you draw a extra card, deal 2 damage to a random enemy.",piratesbay
+Treasure Map,"during your turn, if you have no cards in hand, draw a card. only triggers once per turn. ",soulsrift
+Bell,draw 1 card when a single melee attack deals at least 15 damage.,easternseas
+Arquebus,"+2 ranged damage if there are no melee attack cards in your draw pile, discard pile or hand.",easternseas
+Kunai,"+2 melee damage if there are no ranged attack cards in your draw pile, discard pile or hand.",easternseas
+Tales in Bottle,"whenever an attack card or a skill card is discarded by other cards or relics, draw 1 card.",packages

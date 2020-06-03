@@ -1,0 +1,19 @@
+Name,Effect,Map
+Purse,get 1-5 coins whenever you lose hp in battle.,piratesbay
+Captain Cap,-1 ammo cost to all cards if there are 3 enemies. ,skullsisland
+Tool Bag,add a multi-tool to your hand at start of battle. ,skullsisland
+Skull Gun,+2 ranged damage. -1 melee damage. ,skullsisland
+Skull Knife,+2 melee damage. -1 ranged damage. ,skullsisland
+Lantern Fish,"+3 ranged damage, but ranged attacks have a 20% chance to miss. ",soulsrift
+Arm Guard,"at the beginning of your turn, lose all armor and deal damage equal to armor lost this way to all enemies. ",soulsrift
+Diamond ,"whenever you lose hp, if you have less than 50% hp, apply 1 blind on all enemies. can only trigger once per battle. ",lostislands
+Fossil ,"when you have no ammo, reload to max. can only trigger once per battle. ",lostislands
+Spiked Club ,critical hits cause stun. can only affect each enemy 1 time per battle. ,lostislands
+Runestone,-20 max hp. gain 20 armor at start of battle.,northernlands
+Ice Sculpture,the first attack of each turn is always a critical hit. -1 attack damage.,northernlands
+Wood Carving,"when you get this relic, upgrade 4 random cards. cannot be removed.",northernlands
+Jade Talisman,-1 max ammo. reload to max at the start of your turn. ,easternseas
+Drum,the first card you use each turn has -1 ammo cost.,easternseas
+Clam,heal 2 whenever you lose all armor.,easternseas
+Scorching Shell,+2 max ammo. -1 max hand size.,packages
+Giant Tentacle,+3 attack damage. add 1 tentacle bind to hand at the start of battle.,packages

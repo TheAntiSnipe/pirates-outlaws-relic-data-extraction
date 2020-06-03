@@ -1,0 +1,22 @@
+Name,Effect,Map
+Feather,20% discount at market.,piratesbay
+Mask,all enemies gain weakened x1 at start of battle.,piratesbay
+Shuriken,+3 damage when attacking injury enemies.,piratesbay
+Glove,immune to weakened.,piratesbay
+Broken Vase,weakened: attack damage penalty for enemies is now 50% instead of 25%.,piratesbay
+Broken Bottle,+1 to all injury gained by enemies. ,skullsisland
+Tooth,"at the start of battle, applies mark x1 to a random enemy. ",skullsisland
+Starfish,"after your attack, if the target still has armor, apply injury x2 to it. ",soulsrift
+Mystery Brew ,"at the end of your turn, remove 1 weakened, blind, fragile, mark and injury. ",lostislands
+Wooden Pauldron ,"whenever you gain weakened, blind, fragile, mark or injury, gain 5 armor. ",lostislands
+Great Scale ,"whenever you gain weakened, apply 2 weakened on all enemies. ",lostislands
+Coral ,"whenever you are attacked, applies 1 injury on the attacker. ",lostislands
+White Shell ,price of a random card becomes 0 in the market. ,lostislands
+Deer Antler,"whenever you take a critical hit, apply 6 injury on the attacker.",northernlands
+Wooden Spoon,"at the end of your turn, heal 2 for each enemy with injury.",northernlands
+Cursed Idol,gain 2 mark at start of battle.,easternseas
+Shamisen,remove all negative conditions at the start of your turn if you have at least 10 armor.,easternseas
+Thorn Potion,attack cards deal critical hits to enemies with at least 10 injury.,packages
+Spiked Vine,ranged attacks cause 1 injury to enemies that already have injury.,packages
+Skull,"at the start of battle, 1 enemy gets deathrattle: deal 15 damage to adjacent enemies.",packages
+Enraged Hammer,you will not become overload for the next 3 battles.,heroes

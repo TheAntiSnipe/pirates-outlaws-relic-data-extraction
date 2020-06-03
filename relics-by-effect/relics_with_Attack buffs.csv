@@ -1,0 +1,39 @@
+Name,Effect,Map
+Boot,gain dodge x2 whenever you take more than 10 damage from a single attack.,piratesbay
+Shuriken,+3 damage when attacking injury enemies.,piratesbay
+Banana Gun,+1 ranged damage.,piratesbay
+Bone Knife,+1 melee damage.,piratesbay
+Pearl Shell,gain 5 armor whenever you take more than 10 damage in a single attack.,piratesbay
+Axe,"whenever you draw a extra card, deal 2 damage to a random enemy.",piratesbay
+Horn,rage damage bonus for you is now 50% instead of 25%.,piratesbay
+Broken Vase,weakened: attack damage penalty for enemies is now 50% instead of 25%.,piratesbay
+Spikey Shell,"whenever you are attacked, deals 3 damage to the attacker.",piratesbay
+Power Scroll,+2 attack damage.,piratesbay
+Beastfang Necklace,+1 attack damage.,piratesbay
+Grapes,+1 attack damage per level of drunk.,piratesbay
+Pirate Flag,+10% rage attack damage bonus per level of rage. ,skullsisland
+Skull Ring,"whenever you are attacked, if you have armor, deal 5 damage to the attacker. ",skullsisland
+Skull Gun,+2 ranged damage. -1 melee damage. ,skullsisland
+Skull Knife,+2 melee damage. -1 ranged damage. ,skullsisland
+Trident,deal 2 damage to all enemies whenever you use a melee card. ,skullsisland
+Lantern Fish,"+3 ranged damage, but ranged attacks have a 20% chance to miss. ",soulsrift
+Arm Guard,"at the beginning of your turn, lose all armor and deal damage equal to armor lost this way to all enemies. ",soulsrift
+Torch ,critical hits deal 250% damage instead of 200%. ,lostislands
+Butterfly ,"if an enemy's attack misses, deals 6 damage to them. ",lostislands
+Broken Sword,+3 melee damage when you have no ammo.,northernlands
+Ice Sculpture,the first attack of each turn is always a critical hit. -1 attack damage.,northernlands
+Wolf Ring,ranged attacks also deal 2 additional damage to enemies adjacent to the target.,northernlands
+Bell,draw 1 card when a single melee attack deals at least 15 damage.,easternseas
+Arquebus,"+2 ranged damage if there are no melee attack cards in your draw pile, discard pile or hand.",easternseas
+Kunai,"+2 melee damage if there are no ranged attack cards in your draw pile, discard pile or hand.",easternseas
+Sushi,"whenever you heal, deal 2 damage to a random enemy.",easternseas
+Boxing Gloves,+1 melee damage until end of turn for each melee attack card that you use.,packages
+Bomb,+2 ranged damage when you have less than 50% hp.,packages
+Scorching Ring,+2 attack damage. all enemies +1 attack damage.,packages
+Tiny Barrel,"whenever an enemy is killed, you increase 3 damage until the end of your turn.",packages
+Skull,"at the start of battle, 1 enemy gets deathrattle: deal 15 damage to adjacent enemies.",packages
+Rusty Anchor,deal 5 damage to the enemies when their positions change.,packages
+Lantern,"whenever an enemy's attack misses, your attack damage +1 until the end of your next turn.",packages
+Giant Tentacle,+3 attack damage. add 1 tentacle bind to hand at the start of battle.,packages
+Power Scroll,+2 attack damage.,heroes
+Tarot,+1 attack damage per charge spent. charge: 3.,heroes

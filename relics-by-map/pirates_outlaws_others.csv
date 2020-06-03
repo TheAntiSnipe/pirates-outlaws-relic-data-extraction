@@ -1,0 +1,8 @@
+Name,Effect
+Cursed Book,"at the end of your turn, reload to max, lose 5 hp for each ammo reloaded in this way. can't be removed."
+Sacred Book,"at the end of your turn, reload 1 if you are not at max ammo. remaining: 25 Ammo."
+Treasure Map,event item
+Amber,upgrade your deck at the start of the next 3 battles.
+Empty Bottle,get 2 Drunk at the start of the next 3 battles.
+Devil Deal,get gold if you defeat the current stage's boss
+Sugar Cane,event item

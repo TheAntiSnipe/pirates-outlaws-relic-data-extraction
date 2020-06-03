@@ -1,0 +1,16 @@
+Name,Effect
+Emblem Shield,"if you did not use any skill card in your turn, gain 8 armor at end of turn."
+Runestone,-20 max hp. gain 20 armor at start of battle.
+Fur Bracer,"at the end of your turn, gain 1 armor for each card in your hand."
+Broken Sword,+3 melee damage when you have no ammo.
+Ice Sculpture,the first attack of each turn is always a critical hit. -1 attack damage.
+Wolf Ring,ranged attacks also deal 2 additional damage to enemies adjacent to the target.
+Ox Horn,"if you are not attacked on the enemy's turn, gain 1 rage at the start of your next turn."
+Deer Antler,"whenever you take a critical hit, apply 6 injury on the attacker."
+Deep Cup,"whenever you gain drunk, heal 3."
+Wooden Spoon,"at the end of your turn, heal 2 for each enemy with injury."
+Helmet,melee critical hits have 25% lifesteal.
+Ornamental Hammer,all enemies lose 10% hp at start of battle.
+Sun Stone,"at start of battle, stun a random enemy."
+Wood Carving,"when you get this relic, upgrade 4 random cards. cannot be removed."
+Deer Ring,add a card with removed to your hand whenever an enemy is killed.

@@ -1,0 +1,16 @@
+Name,Effect,Map
+Belt,+1 max ammo.,piratesbay
+Crown,+1 hand size.,piratesbay
+Captain Cap,-1 ammo cost to all cards if there are 3 enemies. ,skullsisland
+Shovel,"at the end of your turn, if you have no ammo, reload 1. ",soulsrift
+Bandolier,"whenever a ranged card crits, restore all ammo that the card used. ",soulsrift
+Magnifying Glass,"whenever you use a melee card, ammo cost of a random ranged card in your hand becomes 0 this turn. ",soulsrift
+Refined Ammo ,"at max ammo, heal 2 for each extra ammo reloaded. remaining: 50 hp",lostislands
+Fossil ,"when you have no ammo, reload to max. can only trigger once per battle. ",lostislands
+Broken Sword,+3 melee damage when you have no ammo.,northernlands
+Jade Talisman,-1 max ammo. reload to max at the start of your turn. ,easternseas
+Drum,the first card you use each turn has -1 ammo cost.,easternseas
+Cooked Meat,heal 1 for each ammo spent when you use a ranged card.,packages
+Scorching Shell,+2 max ammo. -1 max hand size.,packages
+Cursed Book,"at the end of your turn, reload to max, lose 5 hp for each ammo reloaded in this way. can't be removed.",others
+Sacred Book,"at the end of your turn, reload 1 if you are not at max ammo. remaining: 25 Ammo.",others

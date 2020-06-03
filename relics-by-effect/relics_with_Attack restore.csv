@@ -1,0 +1,20 @@
+Name,Effect,Map
+Ammo Heap,adds 1 extra supplies to draw pile at start of battle.,piratesbay
+Fake Eye,adds an additional reward option at end of battle.,piratesbay
+Hammer,upgrade 2 random attack cards when you get this relic.,piratesbay
+ToolBook,upgrade 2 random skill cards when you get this relic.,piratesbay
+Golden Gun,ranged cards that you receive are automatically upgraded.,piratesbay
+Golden Knife,ranged cards that you receive are automatically upgraded.,piratesbay
+Golden Book,skill cards that you receive are automatically upgraded.,piratesbay
+Tool Bag,add a multi-tool to your hand at start of battle. ,skullsisland
+Drift Bottle,add a random attack card to your hand whenever a card is removed in battle. ,soulsrift
+Knot,add 1 endure to your hand at start of battle. ,soulsrift
+Wolf Ring,ranged attacks also deal 2 additional damage to enemies adjacent to the target.,northernlands
+Wood Carving,"when you get this relic, upgrade 4 random cards. cannot be removed.",northernlands
+Deer Ring,add a card with removed to your hand whenever an enemy is killed.,northernlands
+Wooden Puzzle,add 1 artisan's blessing to your hand whenever an enemy is killed.,easternseas
+Bag of Tips,"at the start of battle, upgrade all skill cards in your deck if your hp is below 50%.",easternseas
+Knuckleduster,add a random melee card to your hand at start of battle.,packages
+Rusty Hook,add a catch to your hand at start of battle.,packages
+Giant Tentacle,+3 attack damage. add 1 tentacle bind to hand at the start of battle.,packages
+Amber,upgrade your deck at the start of the next 3 battles.,others

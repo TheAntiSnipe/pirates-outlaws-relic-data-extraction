@@ -1,0 +1,54 @@
+Name,Effect
+Golden Heart ,+20% coins after battle. 
+Ammo Heap,adds 1 extra supplies to draw pile at start of battle.
+Belt,+1 max ammo.
+Crown,+1 hand size.
+Feather,20% discount at market.
+Lucky Clover,"when hp reaches 0 in battle, revive and heal 50% of hp. take effect only 1 time for each game."
+Golden Cup,looks valuable.
+Crab Pincer,gain rage x1 at start of battle.
+Bread ,+8 max hp.
+Cheese,+10 healing at tavern.
+Shield ,+6 armor at start of battle.
+Conch,+1 armor whenever you use a card.
+Fake Eye,adds an additional reward option at end of battle.
+Disgusting Egg,reload 1 whenever an enemy is killed.
+Hook,draw a card whenever an enemy is killed.
+Pirate Bandana,+1 to all rage gained.
+Mask,all enemies gain weakened x1 at start of battle.
+Boot,gain dodge x2 whenever you take more than 10 damage from a single attack.
+Shuriken,+3 damage when attacking injury enemies.
+Banana Gun,+1 ranged damage.
+Bone Knife,+1 melee damage.
+Old Key,an old and ornate key.
+Eye Mask,the first melee card of each battle deals a critical hit.
+Apple,heal 3 at the start of each battle.
+Rum,+5 max hp.
+Pendant,x2 armor gain if you have none.
+Hourglass,gain 2 armor when you heal.
+Pearl Shell,gain 5 armor whenever you take more than 10 damage in a single attack.
+Rose,heal 3 when you deal a critical hit.
+Glove,immune to weakened.
+Candle,remove 2 random curses from your deck when you get this relic.
+Hammer,upgrade 2 random attack cards when you get this relic.
+ToolBook,upgrade 2 random skill cards when you get this relic.
+Knife,reload 1 whenever a melee attack deals a critical hit.
+Telescope,draw 1 card whenever a ranged attack deals a critical hit.
+Pepper,draw a card whenever you lose hp on your turn.
+Dice,"at the start of your turn, discard a card from your hand, then draw a card."
+Axe,"whenever you draw a extra card, deal 2 damage to a random enemy."
+Horn,rage damage bonus for you is now 50% instead of 25%.
+Broken Vase,weakened: attack damage penalty for enemies is now 50% instead of 25%.
+Pipe,"if you did not use any attack card in your turn, reload 1 at end of turn."
+Spikey Shell,"whenever you are attacked, deals 3 damage to the attacker."
+Bronze Ring,"at the start of your turn, reload 1 if your hp is below 50%."
+Crystal,"at end of battle, heal 6 if your hp is below 50%."
+Delicate Pot,"at the start of battle, gain 10 armor if your hp is below 50%."
+Purse,get 1-5 coins whenever you lose hp in battle.
+Golden Gun,ranged cards that you receive are automatically upgraded.
+Golden Knife,ranged cards that you receive are automatically upgraded.
+Golden Book,skill cards that you receive are automatically upgraded.
+Artificial Stone,"at the end of your turn, for each enemy, you get 2 armor."
+Power Scroll,+2 attack damage.
+Beastfang Necklace,+1 attack damage.
+Grapes,+1 attack damage per level of drunk.

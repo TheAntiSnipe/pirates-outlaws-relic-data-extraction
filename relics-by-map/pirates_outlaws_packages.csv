@@ -1,0 +1,19 @@
+Name,Effect
+Boxing Gloves,+1 melee damage until end of turn for each melee attack card that you use.
+Knuckleduster,add a random melee card to your hand at start of battle.
+Bomb,+2 ranged damage when you have less than 50% hp.
+Cooked Meat,heal 1 for each ammo spent when you use a ranged card.
+Scorching Shell,+2 max ammo. -1 max hand size.
+Scorching Ring,+2 attack damage. all enemies +1 attack damage.
+Thorn Potion,attack cards deal critical hits to enemies with at least 10 injury.
+Spiked Vine,ranged attacks cause 1 injury to enemies that already have injury.
+Honey Ale,"if you are drunk, reload 1 when you deal a critical hit."
+Beer Mug,"at end of turn, heal 3 if you are drunk."
+Tiny Barrel,"whenever an enemy is killed, you increase 3 damage until the end of your turn."
+Skull,"at the start of battle, 1 enemy gets deathrattle: deal 15 damage to adjacent enemies."
+Rusty Anchor,deal 5 damage to the enemies when their positions change.
+Rusty Hook,add a catch to your hand at start of battle.
+Match,"at the start of each your turn, if there is more than 1 enemy, apply 1 blind to a random enemy."
+Lantern,"whenever an enemy's attack misses, your attack damage +1 until the end of your next turn."
+Giant Tentacle,+3 attack damage. add 1 tentacle bind to hand at the start of battle.
+Tales in Bottle,"whenever an attack card or a skill card is discarded by other cards or relics, draw 1 card."

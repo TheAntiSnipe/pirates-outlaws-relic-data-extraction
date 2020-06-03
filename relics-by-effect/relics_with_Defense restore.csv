@@ -1,0 +1,24 @@
+Name,Effect,Map
+Shield ,+6 armor at start of battle.,piratesbay
+Conch,+1 armor whenever you use a card.,piratesbay
+Pendant,x2 armor gain if you have none.,piratesbay
+Hourglass,gain 2 armor when you heal.,piratesbay
+Pearl Shell,gain 5 armor whenever you take more than 10 damage in a single attack.,piratesbay
+Glove,immune to weakened.,piratesbay
+Delicate Pot,"at the start of battle, gain 10 armor if your hp is below 50%.",piratesbay
+Artificial Stone,"at the end of your turn, for each enemy, you get 2 armor.",piratesbay
+Skull Ring,"whenever you are attacked, if you have armor, deal 5 damage to the attacker. ",skullsisland
+Bucket,"at the end of your turn, gain 4 armor if you have none. ",skullsisland
+Brush,gain immunity x3 at start of battle. ,soulsrift
+Corpse Flower,+2 to all armor gain effects.\ndisables all healing effects in battle. ,soulsrift
+Arm Guard,"at the beginning of your turn, lose all armor and deal damage equal to armor lost this way to all enemies. ",soulsrift
+Starfish,"after your attack, if the target still has armor, apply injury x2 to it. ",soulsrift
+Lucky Charm ,gain 10 armor whenever you take a critical hit. ,lostislands
+Crab Shell ,gain 3 armor whenever an enemy gains armor. ,lostislands
+Wooden Pauldron ,"whenever you gain weakened, blind, fragile, mark or injury, gain 5 armor. ",lostislands
+Emblem Shield,"if you did not use any skill card in your turn, gain 8 armor at end of turn.",northernlands
+Runestone,-20 max hp. gain 20 armor at start of battle.,northernlands
+Fur Bracer,"at the end of your turn, gain 1 armor for each card in your hand.",northernlands
+Clam,heal 2 whenever you lose all armor.,easternseas
+Shamisen,remove all negative conditions at the start of your turn if you have at least 10 armor.,easternseas
+Paper Fan,all attacks crit if your armor is higher than your hp.,easternseas

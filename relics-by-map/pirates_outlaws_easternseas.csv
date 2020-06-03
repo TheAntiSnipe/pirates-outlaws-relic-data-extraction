@@ -1,0 +1,19 @@
+Name,Effect
+Bounty Warrant,+10 sell price for each enemy killed (max 300).
+Jade Talisman,-1 max ammo. reload to max at the start of your turn. 
+Bell,draw 1 card when a single melee attack deals at least 15 damage.
+Cursed Idol,gain 2 mark at start of battle.
+Drum,the first card you use each turn has -1 ammo cost.
+Clam,heal 2 whenever you lose all armor.
+Wooden Puzzle,add 1 artisan's blessing to your hand whenever an enemy is killed.
+Arquebus,"+2 ranged damage if there are no melee attack cards in your draw pile, discard pile or hand."
+Kunai,"+2 melee damage if there are no ranged attack cards in your draw pile, discard pile or hand."
+Bag of Tips,"at the start of battle, upgrade all skill cards in your deck if your hp is below 50%."
+Porcelain Vase,gain 1 dodge at start of battle.
+Prayer Beads,"at the start of battle, if your hp is below 50%, heal to max. take effect for only 1 time in a game."
+Shamisen,remove all negative conditions at the start of your turn if you have at least 10 armor.
+Sushi,"whenever you heal, deal 2 damage to a random enemy."
+Origami,+1 max hp at the end of battle (max 20). current bonus: 0
+Paper Fan,all attacks crit if your armor is higher than your hp.
+Junk,worthless junk.
+Fisherman's Ring,the relict of the fisherman specter.

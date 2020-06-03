@@ -1,0 +1,13 @@
+Name,Effect,Map
+Disgusting Egg,reload 1 whenever an enemy is killed.,piratesbay
+Knife,reload 1 whenever a melee attack deals a critical hit.,piratesbay
+Pipe,"if you did not use any attack card in your turn, reload 1 at end of turn.",piratesbay
+Bronze Ring,"at the start of your turn, reload 1 if your hp is below 50%.",piratesbay
+Sea Horse,20% to reload 1 when you use a ranged card. ,skullsisland
+Shovel,"at the end of your turn, if you have no ammo, reload 1. ",soulsrift
+Refined Ammo ,"at max ammo, heal 2 for each extra ammo reloaded. remaining: 50 hp",lostislands
+Fossil ,"when you have no ammo, reload to max. can only trigger once per battle. ",lostislands
+Jade Talisman,-1 max ammo. reload to max at the start of your turn. ,easternseas
+Honey Ale,"if you are drunk, reload 1 when you deal a critical hit.",packages
+Cursed Book,"at the end of your turn, reload to max, lose 5 hp for each ammo reloaded in this way. can't be removed.",others
+Sacred Book,"at the end of your turn, reload 1 if you are not at max ammo. remaining: 25 Ammo.",others
